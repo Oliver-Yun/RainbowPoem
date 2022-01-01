@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 By Oli.Y
 
 Red
@@ -10,3 +10,5 @@ Blue
 Purple
 
 These are the colors of the rainbow.
+
+Add a unicorn along the bridge.
