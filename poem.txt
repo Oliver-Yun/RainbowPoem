@@ -5,8 +5,8 @@ Red
 Orange
 Yellow
 Green
-Cyan
 Blue
+Indigo
 Purple
 
 These are the colors of the rainbow.
